@@ -60,7 +60,7 @@ Changes to a professional Employee
 Works for a week, then checks salary  
 ![Screen Shot 2022-10-19 at 1 01 04 AM](https://user-images.githubusercontent.com/98353390/196610922-436c5325-9a36-4106-a2e8-225bc12df4b1.png)  
   
-(Still Under Nonprofessional Employee)  
+(Still Under Professional Employee)  
 Checks employer contribution, checks amount of vacation, checks money made so far, then quits program  
 ![Screen Shot 2022-10-19 at 1 01 25 AM](https://user-images.githubusercontent.com/98353390/196611177-a05ca9d4-3d68-4bc3-ab43-07015c9dd01d.png)
 
